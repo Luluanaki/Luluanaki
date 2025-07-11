@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**Luluanaki/Luluanaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>Hi there 👋 I'm Lucas! <br>
+<a href="https://www.linkedin.com/in/lucas-castelein-bb885b1a0">Data Scientist, Developer, Audio Engineer</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>profile description</p>
+
+---
+  
+<h2> Software Development Projects:</h2>
+
+- <b>Algorithms Practice (AlgoExpert)</b>
+- <b>PowerShell</b>
+- <b>C# (.NET Desktop Applications)</b>
+- <b>Python</b>
+
+---
+
+<h2> Data Science Projects:</h2>
+
+---
+
+
+<h2> Hobby Projects:</h2>
+
+- <b>Arcade Cabinet</b> <br>
+  - [DIY Retro Arcade Cabinet](https://github.com/Luluanaki/diy-retro-arcade)
+- <b>3D printer Project</b><br>
+  - [DIY 3D printer Build](https://github.com/Luluanaki/diy-crtsn-3dprinter)
+- <b>3D Modeling</b> <br>
+  - [Collectible Shelf System v1](https://www.thingiverse.com/thing:6719204) <br>
+  - [Collectible Shelf System v2](https://www.thingiverse.com/thing:6981411/comments) <br>
+
+
+---
+
+
+<h2> Connect with me:</h2>
+
+[<img align="left" alt="LucasCastelein | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/lucas-castelein-bb885b1a0
+
+
