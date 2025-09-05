@@ -1,7 +1,7 @@
 
 
 <h1>Hi there 👋 I'm Lucas! <br>
-<a href="https://www.linkedin.com/in/lucas-castelein-bb885b1a0">Data Scientist, Developer, Audio Engineer</h1>
+<a href="https://www.linkedin.com/in/lucas-castelein-bb885b1a0">Developer, Data Scientist, Maker</h1>
 
 <p>profile description</p>
 
@@ -9,15 +9,8 @@
   
 <h2> Software Development Projects:</h2>
 
-- <b>Algorithms Practice (AlgoExpert)</b>
-- <b>PowerShell</b>
-- <b>C# (.NET Desktop Applications)</b>
 - <b>Python</b>
   - [Resin Printer Timelapse Program](https://github.com/Luluanaki/Resin-Timelapse.git)
-
----
-
-<h2> Data Science Projects:</h2>
 
 ---
 
