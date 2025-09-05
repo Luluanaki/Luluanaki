@@ -13,6 +13,7 @@
 - <b>PowerShell</b>
 - <b>C# (.NET Desktop Applications)</b>
 - <b>Python</b>
+  - [Resin Printer Timelapse Program](https://github.com/Luluanaki/Resin-Timelapse.git)
 
 ---
 
