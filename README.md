@@ -1,7 +1,9 @@
 # Hi there 👋 I'm Lucas!
-**[Developer · Data Scientist · Maker](https://www.linkedin.com/in/lucas-castelein-bb885b1a0)**  
+**[Developer · Data Scientist · Mechanical Design Technician](https://www.linkedin.com/in/lucas-castelein-bb885b1a0)**  
 
-profile description
+I’m a computer science graduate with a strong interest in mechanical engineering, design, and hands-on problem solving. While my formal education is in computer science, I’ve gained extensive practical experience through technical roles and personal projects involving mechanical fabrication, CAD modeling, prototyping, and iterative design.
+
+I enjoy working at the intersection of software and physical systems—whether that’s designing and building mechanical components, refining designs through testing, or applying analytical thinking to real-world engineering challenges. I’m especially drawn to roles that value curiosity, technical judgment, and the ability to turn ideas into working solutions. 
 
 ---
 
